@@ -1,0 +1,23 @@
+[06-Feb-2019 09:03:24 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[09-Feb-2019 00:11:58 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[09-Feb-2019 00:12:47 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[09-Feb-2019 00:15:24 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[10-Feb-2019 22:40:50 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[10-Feb-2019 22:41:31 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[10-Feb-2019 22:47:55 America/Chicago] PHP Notice:  Undefined variable: now_fees in /home/kpisms/public_html/soft/fees_document.php on line 38
+[10-Feb-2019 22:47:55 America/Chicago] PHP Notice:  Undefined variable: group in /home/kpisms/public_html/soft/fees_document.php on line 66
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: roll in /home/kpisms/public_html/soft/fees_document.php on line 69
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 69
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: group in /home/kpisms/public_html/soft/fees_document.php on line 69
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 109
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 109
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 113
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: now_fees in /home/kpisms/public_html/soft/fees_document.php on line 127
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 134
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 134
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: roll in /home/kpisms/public_html/soft/fees_document.php on line 137
+[10-Feb-2019 22:47:56 America/Chicago] PHP Notice:  Undefined variable: class in /home/kpisms/public_html/soft/fees_document.php on line 137
+[13-Feb-2019 23:33:21 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[13-Feb-2019 23:33:34 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
+[13-Feb-2019 23:39:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/kpisms/public_html/soft/manage_mark_sheet.php on line 41
+[13-Feb-2019 23:41:04 America/Chicago] PHP Notice:  Undefined variable: unsee_complain in /home/kpisms/public_html/soft/index.php on line 95
